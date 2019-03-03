@@ -27,3 +27,19 @@ https://eloquentjavascript.net/
 # Mjukvara
 En pakethanterare så att du kan installera allt. Linux pacman (eller vad du nu har), med mac homebrew eller chocolatey till windows.
 git vscode nodejs slack chromium.
+
+# Inlämningar görs på github
+Skapa ett konto på github.
+Lär dig grundrena.
+https://learngitbranching.js.org/
+
+# Expandera vscode
+Installera följande tilläg:
+* ESLint
+* Auto Close Tag 
+* Auto Rename Tag
+* GitLens
+* VS Live Share
+
+Listan är inspirerad av:
+https://chingu.gitbook.io/cohort/cohort-guide/preparing-for-the-cohort/actionable-items-to-do
