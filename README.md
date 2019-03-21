@@ -45,9 +45,9 @@ Listan är inspirerad av:
 https://chingu.gitbook.io/cohort/cohort-guide/preparing-for-the-cohort/actionable-items-to-do
 
 # Viktiga tutorials för lilvslångt övertag
-Lär dig vim på 40 minuter. Kör vimtutor i din terminal.\
+Lär dig vim på 40 minuter. Kör vimtutor i din terminal.
 ```
-> vimtutor
+$ vimtutor
 ```
 Lär dig skriva markdown på 10 minuter (precis som detta dokumentet). https://commonmark.org/help/  
 
