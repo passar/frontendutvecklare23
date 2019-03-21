@@ -46,5 +46,13 @@ https://chingu.gitbook.io/cohort/cohort-guide/preparing-for-the-cohort/actionabl
 
 # Viktiga tutorials för lilvslångt övertag
 Lär dig vim på 40 minuter. Kör vimtutor i din terminal.\
+```
 > vimtutor
-Lär dig skriva markdown på 10 minuter (precis som detta dokumentet). https://commonmark.org/help/
+```
+Lär dig skriva markdown på 10 minuter (precis som detta dokumentet). https://commonmark.org/help/  
+
+## Lär dig att klippa och klistra på alla sätt
+Det finns extremt många sätt men börja med dessa:\
+Shift/Ctrl + insert       = Kopiera och klistra\
+Markera                   = Kopiera\
+Mittenklick/Dubbelklick   = Klistra in
