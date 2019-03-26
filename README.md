@@ -50,6 +50,7 @@ Lär dig vim på 40 minuter. Kör vimtutor i din terminal.
 $ vimtutor
 ```
 Lär dig skriva markdown på 10 minuter (precis som detta dokumentet). https://commonmark.org/help/  
+Samt specken på https://github.github.com/gfm/
 
 ## Lär dig att klippa och klistra på alla sätt
 Det finns extremt många sätt men börja med dessa:\
